@@ -1,35 +1,34 @@
-* Track Name: :Lyrics:
+* Track Name: :Lyrics
 :PROPERTIES:
 :ARTIST:   Slayyyter
 :PRODUCER: Valley Girl
 :END:
 
-
 =[Intro]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 I'm unhappier now
 I'm unhappier now
 Ooh-oh
-#+END_VERSE
+#+END_SRC
 
 =[Verse 1]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 You couldn't wait to see
 me out
 I'm real quiet when you
 run your mouth
-#+END_VERSE
+#+END_SRC
 
 =[Pre-Chorus]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 Lock eyes, walk by
 Can't help but feel
 Unusual
 Are you for real?
-#+END_VERSE
+#+END_SRC
 
 =[Chorus]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 I kinda hate you, but
 It doesn't matter, let me
 dance
@@ -40,25 +39,25 @@ Feel it in my bones,
 written in blood (Blood)
 I don't need you, I don't
 need anyone (Blood)
-#+END_VERSE
+#+END_SRC
 
 =[Verse 2]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 I'll never understand why
 Creatures like you crawl
 to me every night, huh
-#+END_VERSE
+#+END_SRC
 
 =[Pre-Chorus]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 Orange wine, fake smile
 I'll keep it real (Mm)
 Delusional, fuck how you
 feel
-#+END_VERSE
+#+END_SRC
 
 =[Chorus]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 I kinda hate you, but
 It doesn't matter, let me
 dance
@@ -69,10 +68,10 @@ Feel it in my bones,
 written in blood (Blood)
 I don't need you, I don't
 need anyone (Blood)
-#+END_VERSE
+#+END_SRC
 
 =[Bridge]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 I came here to party, and
 you know what you
 started
@@ -85,12 +84,12 @@ started
 I'll end it in the morning
 when you seem
 unimportant
-#+END_VERSE
+#+END_SRC
 
 =[Outro]=\\
-#+BEGIN_VERSE
+#+BEGIN_SRC text
 Ah, ooh-oh
 Ooh-oh
 Mm, oh-oh
 Ooh, ooh-ooh
-#+END_VERSE
+#+END_SRC
