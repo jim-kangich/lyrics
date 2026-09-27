@@ -5,92 +5,92 @@
 :END:
 
 
-** Intro
+=[Intro]=\\
 #+BEGIN_VERSE
-I'm unhappier now\\
-I'm unhappier now\\
+I'm unhappier now
+I'm unhappier now
 Ooh-oh
 #+END_VERSE
 
-** Verse 1
+=[Verse 1]=\\
 #+BEGIN_VERSE
-You couldn't wait to see\\
-me out\\
-I'm real quiet when you\\
+You couldn't wait to see
+me out
+I'm real quiet when you
 run your mouth
 #+END_VERSE
 
-** Pre-Chorus
+=[Pre-Chorus]=\\
 #+BEGIN_VERSE
-Lock eyes, walk by\\
-Can't help but feel\\
-Unusual\\
+Lock eyes, walk by
+Can't help but feel
+Unusual
 Are you for real?
 #+END_VERSE
 
-** Chorus
+=[Chorus]=\\
 #+BEGIN_VERSE
-I kinda hate you, but\\
-It doesn't matter, let me\\
-dance\\
-You seem so miserable\\
-It doesn't matter, let me\\
-dance\\
-Feel it in my bones,\\
-written in blood (Blood)\\
-I don't need you, I don't\\
+I kinda hate you, but
+It doesn't matter, let me
+dance
+You seem so miserable
+It doesn't matter, let me
+dance
+Feel it in my bones,
+written in blood (Blood)
+I don't need you, I don't
 need anyone (Blood)
 #+END_VERSE
 
-** Verse 2
+=[Verse 2]=\\
 #+BEGIN_VERSE
-I'll never understand why\\
-Creatures like you crawl\\
+I'll never understand why
+Creatures like you crawl
 to me every night, huh
 #+END_VERSE
 
-** Pre-Chorus
+=[Pre-Chorus]=\\
 #+BEGIN_VERSE
-Orange wine, fake smile\\
-I'll keep it real (Mm)\\
-Delusional, fuck how you\\
+Orange wine, fake smile
+I'll keep it real (Mm)
+Delusional, fuck how you
 feel
 #+END_VERSE
 
-** Chorus
+=[Chorus]=\\
 #+BEGIN_VERSE
-I kinda hate you, but\\
-It doesn't matter, let me\\
-dance\\
-You seem so miserable\\
-It doesn't matter, let me\\
-dance\\
-Feel it in my bones,\\
-written in blood (Blood)\\
-I don't need you, I don't\\
+I kinda hate you, but
+It doesn't matter, let me
+dance
+You seem so miserable
+It doesn't matter, let me
+dance
+Feel it in my bones,
+written in blood (Blood)
+I don't need you, I don't
 need anyone (Blood)
 #+END_VERSE
 
-** Bridge
+=[Bridge]=\\
 #+BEGIN_VERSE
-I came here to party, and\\
-you know what you\\
-started\\
-I'll end it in the morning\\
-when you seem\\
-unimportant\\
-And I came here to party,\\
-and you know what you\\
-started\\
-I'll end it in the morning\\
-when you seem\\
+I came here to party, and
+you know what you
+started
+I'll end it in the morning
+when you seem
+unimportant
+And I came here to party,
+and you know what you
+started
+I'll end it in the morning
+when you seem
 unimportant
 #+END_VERSE
 
-** Outro
+=[Outro]=\\
 #+BEGIN_VERSE
-Ah, ooh-oh\\
-Ooh-oh\\
-Mm, oh-oh\\
+Ah, ooh-oh
+Ooh-oh
+Mm, oh-oh
 Ooh, ooh-ooh
 #+END_VERSE
